@@ -1,0 +1,7 @@
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno5\Progetto-S12-L5\Progetto-S12-L5\Progetto-S12-L5\bin\Debug\Progetto-S12-L5.exe.config
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno5\Progetto-S12-L5\Progetto-S12-L5\Progetto-S12-L5\bin\Debug\Progetto-S12-L5.exe
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno5\Progetto-S12-L5\Progetto-S12-L5\Progetto-S12-L5\bin\Debug\Progetto-S12-L5.pdb
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno5\Progetto-S12-L5\Progetto-S12-L5\Progetto-S12-L5\obj\Debug\Progetto-S12-L5.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno5\Progetto-S12-L5\Progetto-S12-L5\Progetto-S12-L5\obj\Debug\Progetto-S12-L5.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno5\Progetto-S12-L5\Progetto-S12-L5\Progetto-S12-L5\obj\Debug\Progetto-S12-L5.exe
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno5\Progetto-S12-L5\Progetto-S12-L5\Progetto-S12-L5\obj\Debug\Progetto-S12-L5.pdb
